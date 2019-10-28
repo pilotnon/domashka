@@ -15,7 +15,7 @@
 .wrapper_inner {
     width: calc(var(--wrapper-width) - var(--width-difference));
     height: calc(var(--wrapper-width) - var(--width-difference));
-    margin: calc(var(--width-difference) / 2;
+    margin: calc(var(--width-difference) / 2);
     background-color: var(--main-red);
     display: inline-block;
 }
