@@ -1,0 +1,21 @@
+.notification {
+    --notification-color: #c3c3c3;
+    width: 200px;
+    height: 50px;
+    background-attachment: var(--notification-color);
+}
+
+.notification{ 
+    --notification-color: #9c2a2a;
+}
+
+.notification{
+    --notification-color: #a06119;
+}
+.notification{
+    --notification-color: #1958a0;
+}
+
+.notification {
+    --notification-color: #19a02f;
+}
